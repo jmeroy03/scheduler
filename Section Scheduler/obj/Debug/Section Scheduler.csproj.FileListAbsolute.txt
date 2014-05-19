@@ -1,0 +1,24 @@
+C:\Users\jay laruja\Desktop\Section Scheduler\Section Scheduler\bin\Debug\Section Scheduler.exe.config
+C:\Users\jay laruja\Desktop\Section Scheduler\Section Scheduler\bin\Debug\Section Scheduler.exe
+C:\Users\jay laruja\Desktop\Section Scheduler\Section Scheduler\bin\Debug\Section Scheduler.pdb
+C:\Users\jay laruja\Desktop\Section Scheduler\Section Scheduler\bin\Debug\MySql.Data.Entity.EF5.dll
+C:\Users\jay laruja\Desktop\Section Scheduler\Section Scheduler\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\jay laruja\Desktop\Section Scheduler\Section Scheduler\obj\Debug\Section Scheduler.csprojResolveAssemblyReference.cache
+C:\Users\jay laruja\Desktop\Section Scheduler\Section Scheduler\obj\Debug\Section_Scheduler.Properties.Resources.resources
+C:\Users\jay laruja\Desktop\Section Scheduler\Section Scheduler\obj\Debug\Section Scheduler.csproj.GenerateResource.Cache
+C:\Users\jay laruja\Desktop\Section Scheduler\Section Scheduler\obj\Debug\Section Scheduler.exe
+C:\Users\jay laruja\Desktop\Section Scheduler\Section Scheduler\obj\Debug\Section Scheduler.pdb
+C:\Users\jay laruja\Desktop\Section Scheduler\Section Scheduler\obj\Debug\Section_Scheduler.FrmMain.resources
+C:\Users\jay laruja\Desktop\Section Scheduler\Section Scheduler\obj\Debug\Section_Scheduler.FrmSubjects.resources
+D:\CApstone_Eroy\Final Phase\Section Scheduler\Section Scheduler\bin\Debug\Section Scheduler.exe.config
+D:\CApstone_Eroy\Final Phase\Section Scheduler\Section Scheduler\obj\Debug\Section Scheduler.exe
+D:\CApstone_Eroy\Final Phase\Section Scheduler\Section Scheduler\obj\Debug\Section Scheduler.pdb
+D:\CApstone_Eroy\Final Phase\Section Scheduler\Section Scheduler\bin\Debug\Section Scheduler.exe
+D:\CApstone_Eroy\Final Phase\Section Scheduler\Section Scheduler\bin\Debug\Section Scheduler.pdb
+D:\CApstone_Eroy\Final Phase\Section Scheduler\Section Scheduler\bin\Debug\MySql.Data.Entity.EF5.dll
+D:\CApstone_Eroy\Final Phase\Section Scheduler\Section Scheduler\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\CApstone_Eroy\Final Phase\Section Scheduler\Section Scheduler\obj\Debug\Section Scheduler.csprojResolveAssemblyReference.cache
+D:\CApstone_Eroy\Final Phase\Section Scheduler\Section Scheduler\obj\Debug\Section_Scheduler.FrmMain.resources
+D:\CApstone_Eroy\Final Phase\Section Scheduler\Section Scheduler\obj\Debug\Section_Scheduler.FrmSubjects.resources
+D:\CApstone_Eroy\Final Phase\Section Scheduler\Section Scheduler\obj\Debug\Section_Scheduler.Properties.Resources.resources
+D:\CApstone_Eroy\Final Phase\Section Scheduler\Section Scheduler\obj\Debug\Section Scheduler.csproj.GenerateResource.Cache
