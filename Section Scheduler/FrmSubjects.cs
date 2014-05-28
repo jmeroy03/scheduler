@@ -39,5 +39,50 @@ namespace Section_Scheduler
             foreach (Course course in courseList)
                 lstSubjects.Items.Add(course);
         }
+
+        private void cboAvailablity_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lstSubjects_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtName_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void groupBox1_Enter(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void chkLaboratory_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label5_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void chkIsServiceCourse_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label6_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

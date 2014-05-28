@@ -22,6 +22,7 @@ namespace Section_Scheduler
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new FrmSubjects());
+            //Application.Run(new FrmRoom());
         }
     }
 }

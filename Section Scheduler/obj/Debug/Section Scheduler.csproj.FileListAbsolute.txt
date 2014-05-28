@@ -22,3 +22,4 @@ D:\CApstone_Eroy\Final Phase\Section Scheduler\Section Scheduler\obj\Debug\Secti
 D:\CApstone_Eroy\Final Phase\Section Scheduler\Section Scheduler\obj\Debug\Section_Scheduler.FrmSubjects.resources
 D:\CApstone_Eroy\Final Phase\Section Scheduler\Section Scheduler\obj\Debug\Section_Scheduler.Properties.Resources.resources
 D:\CApstone_Eroy\Final Phase\Section Scheduler\Section Scheduler\obj\Debug\Section Scheduler.csproj.GenerateResource.Cache
+D:\CApstone_Eroy\Final Phase\Section Scheduler\Section Scheduler\obj\Debug\Section_Scheduler.FrmRoom.resources
